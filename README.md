@@ -1,2 +1,2 @@
-# Stock-Market-Index-Prediction-Using-Fusion-Model-of-Machine-Learning-Techniques
-Conducted research in the fusion of machine learning models to improve stock market index prediction accuracy. Evaluated individual models (LSTM, RF, LR, GRU) and compared their performance to fusion prediction models (RF-LSTM, RF-LR, RFGRU).
+# Comparative Analysis of Swarm Intelligence Algorithms for Feature Engineering
+This project aims to enhance the prediction accuracy of the NIFTY50 index by employing Long Short-Term Memory (LSTM) models in conjunction with feature selection techniques based on (ACO, GA, BHO). The primary goal is to evaluate and compare the effectiveness of these optimization algorithms in improving the performance of LSTM models for financial forecasting.
